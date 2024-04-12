@@ -6,7 +6,7 @@
   via telegram: @mothers_darling
   via email: ananarkevich@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm 
+- ⚡ Fun fact: nothing's fun. Only strict, grumpy face for you guyz. 
 
 <!---
 ananar27/ananar27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
