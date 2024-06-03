@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ananar27
-- 👀 I’m interested in really wide range of things. Should put sth concrete here later.
-- 🌱 I’m currently learning bash, gitlab, c and cpp
+- 👀 I’m interested in really wide range of things, for now mostly looking into DevOps topics
+- 🌱 I’m currently learning bash, docker, gitlab CI, cpp
 - 💞️ I’m looking to collaborate on ... don't really know yet
 - 📫 How to reach me:
   via telegram: @mothers_darling
