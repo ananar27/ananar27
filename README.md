@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @ananar27
-- 👀 I’m interested in really wide range of things, for now mostly looking into DevOps topics
-- 🌱 I’m currently learning bash, docker, gitlab CI, cpp
-- 💞️ I’m looking to collaborate on ... don't really know yet
+- 🌱 This account is used for educational purposes (precisely keeping all my study projects in one place). So some of the tasks are my implementations of School21 projects and some are the results of my actual training in DevOps engineering. Hope you can find something useful here.
 - 📫 How to reach me:
   via telegram: @mothers_darling
   via email: ananarkevich@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: nothing's fun. Only strict, grumpy face for you guyz. 
+- ⚡ Fun fact: it only took one interview... 
 
 <!---
 ananar27/ananar27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
